@@ -1,6 +1,6 @@
 {
   "name": "naive-react-packery-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/index",
   "description": "A Naive Packery component for React.js. A fork of eiriklv/react-packery-component for simple use cases",
   "dependencies": {
