@@ -1,8 +1,8 @@
 {
-  "name": "react-packery-component",
-  "version": "1.0.2",
+  "name": "naive-react-packery-component",
+  "version": "0.0.1",
   "main": "./lib/index",
-  "description": "A Packery component for React.js",
+  "description": "A Naive Packery component for React.js. A fork of eiriklv/react-packery-component for simple use cases",
   "dependencies": {
     "packery": "eiriklv/packery",
     "imagesloaded": "eiriklv/imagesloaded"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eiriklv/react-packery-component.git"
+    "url": "git://github.com/tryangul/react-packery-component.git"
   },
   "keywords": [
     "react",
@@ -31,8 +31,8 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/eiriklv/react-packery-component/issues"
+    "url": "https://github.com/tryangul/react-packery-component/issues"
   },
-  "homepage": "https://github.com/eiriklv/react-packery-component",
+  "homepage": "https://github.com/tryangul/react-packery-component",
   "license": "MIT"
 }
